@@ -172,4 +172,4 @@ Credit-Risk-Logistic-Regression-Orange/
 **Kanav** | MBA Applied Finance  
 🏫 Chitkara University, Panchkula  
 📚 Course: AI Agents & Automation Lab  
-🔗 GitHub: [klathwalipm22-tech](https://github.com/klathwalipm22-tech)
+
